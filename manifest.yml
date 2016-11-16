@@ -1,0 +1,6 @@
+---
+applications:
+        - name: php-demo
+          memory: 128M
+          disk_quota: 512M
+          random-route: true
